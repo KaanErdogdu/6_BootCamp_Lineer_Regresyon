@@ -1,0 +1,1 @@
+# 6_BootCamp_Lineer_Regresyon
